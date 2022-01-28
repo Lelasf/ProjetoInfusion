@@ -96,6 +96,8 @@ body {
   border-bottom: 1px solid #e4e4e4;
   margin-bottom: 2rem;
   display: flex;
+  align-items: center;
+  justify-content: space-between;
   top: 0;
   left: 0;
   z-index: 100;
@@ -116,7 +118,11 @@ nav {
   align-items: center;
   justify-content: space-between;
   width: 100%;
-  margin-left: 0 !important;
+  /* margin-left: 0 !important; */
+}
+
+.nav-container {
+  margin-right: 1.5rem;
 }
 
 nav ul li {
@@ -613,7 +619,7 @@ footer .social a:hover {
   }
 
   .home-button {
-    height: 4rem;
+    padding: 1.5rem 1.5rem;
   }
 
   /* ABOUT */
