@@ -17,4 +17,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto Infusion é uma aplicação feita para ser uma página única que pode servir de portifólio para um profissional, independente da área em que ele atua
+O projeto Infusion é uma aplicação feita para ser uma página única que pode servir de portfólio para um profissional, independente da área em que ele atua
